@@ -17,7 +17,7 @@ This project provides an AI-powered Finance Agent capable of analyzing and visua
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/dhananjaypatil/finance-ai-agent.git
+   git clone https://github.com/dhananjaykr306/MULTI_AGENT
    ```
 
 2. **Set Up Environment**:
