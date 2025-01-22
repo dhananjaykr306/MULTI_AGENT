@@ -35,7 +35,7 @@ This project provides an AI-powered Finance Agent capable of analyzing and visua
 
 4. **Run the Application**:
    ```bash
-   python <script_name>.py
+   python playground.py
    ```
 
 ## Usage
@@ -100,5 +100,4 @@ The PHI Playground serves as an interactive environment to visualize and query s
 - `mplfinance`
 - `pandas`
 - `python-dotenv`
-
 
