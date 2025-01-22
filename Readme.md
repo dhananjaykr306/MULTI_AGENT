@@ -82,7 +82,7 @@ The `query_stock_info` function performs the following:
 - Provides a buy/sell recommendation based on moving averages crossover.
 
 ### Playground
-The PHI Playground serves as an interactive environment to visualize and query stock data.
+The PHI Playground serves as an interactive environment to interactive and query stock data.
 
 ## Example
 1. Input stock name: `TCS.NS`
