@@ -1,0 +1,16 @@
+phidata 
+python-dotenv
+yfinance
+packaging
+duckduckgo-search
+fastapi
+uvicorn
+groq
+openai
+youtube_transcript_api
+wikipedia
+plotly
+pandas
+numpy
+ipykernel
+streamlit
